@@ -5,6 +5,7 @@ This is a codeless language module for BBEdit that will provide syntax highlight
 The currently captured extensions are:
 
 - `.xojo_code`
+- `.xojo_code_assistant`
 - `.xojo_script`
 - `.xojo_window`
 - `.rbbas`

@@ -3,8 +3,8 @@
 <plist version="1.0">
 <!--
 	BBEdit codeless language module for Xojo code
-	Tim Parnell <http://timi.me>
-	Version 1.0 - 3 November 2023
+	Tim Parnell <https://timi.me>
+	Version 1.1 - 7 July 2025
 
 	Released under the MIT license:
 	<https://choosealicense.com/licenses/mit/>
@@ -21,6 +21,10 @@
 		<dict>
 			<key>BBLMLanguageSuffix</key>
 			<string>.xojo_code</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.xojo_code_assistant</string>
 		</dict>
 		<dict>
 			<key>BBLMLanguageSuffix</key>
